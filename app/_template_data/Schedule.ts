@@ -12,7 +12,7 @@ export type ScheduleType = {
 
 export const ScheduleList: ScheduleType[] = [
     {
-        date: "Monday July 10 2023",
+        date: "Saturday January 6 2024",
         events: [
             {
                 time: "12:00 PM",
@@ -25,7 +25,7 @@ export const ScheduleList: ScheduleType[] = [
         ]
     },
     {
-        "date": "Tuesday July 11 2023",
+        "date": "Sunday January 7 2024",
         "events": [
             {
                 "time": "3:00 PM",

@@ -13,7 +13,7 @@ export type TeamType = {
 export const TeamList: TeamType[] = [
     {
         image: Pfp.src,
-        name: "Descope",
+        name: "theN0madHacker",
         role: "Creator",
         twitter: "@descopeinc",
         website: "https://descope.com/"
