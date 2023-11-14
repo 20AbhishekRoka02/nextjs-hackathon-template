@@ -19,7 +19,7 @@ export default function About({ data, AboutImage }: { data: AboutType, AboutImag
                 </div>
                 <div className='col flex-1 max-md:flex-none max-md:mt-6 items-center justify-center'>
                     <div className="col w-[90%]">
-                        <p className="title justify-start mb-20 text-gray-800">About <span className='text-[#37c598]'>सृजन</span>उत्सव</p>
+                        <p className="title justify-start mb-20 text-gray-800">About <span className='text-[#37c598]'>Dev</span>Warefare</p>
                         <p className="text-lg">{ data.firstParagraph }</p>
                         <br />
                         <p className="text-lg">{ data.secondParagraph }</p>
